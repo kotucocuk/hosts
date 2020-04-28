@@ -24,7 +24,7 @@
 0.0.0.0 sleepsport.com
 0.0.0.0 www.sleepsport.com
 0.0.0.0 localssite.com
-0.0.0.0 wwww.localssite.com
+0.0.0.0 www.localssite.com
 0.0.0.0 counter.admongrel.com
 0.0.0.0 nagano-19599.herokussl.com
 0.0.0.0 go-dct.herokuapp.com
@@ -59,9 +59,9 @@
 0.0.0.0 vietdot.com
 0.0.0.0 www.vietdot.com
 0.0.0.0 yeniakit.com.tr
-0.0.0.0 wwww.yeniakit.com.tr
+0.0.0.0 www.yeniakit.com.tr
 0.0.0.0 mewtenhah.com
-0.0.0.0 wwww.mewtenhah.com
+0.0.0.0 www.mewtenhah.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 www.popcash.net
 0.0.0.0 popcash.net
