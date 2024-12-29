@@ -10338,7 +10338,7 @@
 # [Zero Lag][AS20093][68.71.240.0 - 68.71.255.255]
 0.0.0.0 rt.udmserve.net
 # [Zero Lag][AS20093][72.37.216.0 - 72.37.217.255]
-0.0.0.0 www.stickylogic.com
+0.0.0.0 stickylogic.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-cf-prd.acquire.unity3dusercontent.com 
