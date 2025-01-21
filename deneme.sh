@@ -5,7 +5,7 @@ set -e
 rm -rf /tmp/luna-install
 mkfifo /tmp/luna-install
 echo "[ ] Installing..."
-luna-send-pub -w 15000 -i 'luna://com.webos.appInstallService/dev/install' '{"id":"com.ares.defaultName","ipkUrl":"/tmp/hbchannel.ipk","subscribe":true}' >/tmp/luna-install &
+luna-send-pub -w 15000 -i 'luna://com.webos.appInstallService/dev/install' '{"id":"com.ares.defaultName","ipkUrl":"/tmp/youtube.ipk","subscribe":true}' >/tmp/luna-install &
 LUNA_PID=$!
 
 if ! result="$(fgrep -m 1 -e 'installed' -e 'failed' /tmp/luna-install)"; then
